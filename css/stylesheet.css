@@ -1,4 +1,20 @@
 .screen{
-	background-color: grey;
-	color: blue;
+	background-color: white;
+	height: 100%;
+	display: block;
+	left: 5%;
+}
+.forma {
+	max-width: 35%;
+	top:70%;
+	padding: 15%, 15%, 15%, 15%;
+
+}
+.carreta{
+
+	max-width: 40%;
+	padding: 15%, 15%, 15%, 15%;
+
+
+
 }
